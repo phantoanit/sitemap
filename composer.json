@@ -28,7 +28,5 @@
         "psr-4": {
             "phantoanit\\sitemap\\": ""
         }
-    },
-    "minimum-stability": "master",
-    "prefer-stable": true
+    }
 }
