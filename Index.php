@@ -1,5 +1,5 @@
 <?php
-namespace samdark\sitemap;
+namespace phantoanit\sitemap;
 
 use XMLWriter;
 

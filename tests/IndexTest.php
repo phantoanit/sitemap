@@ -1,7 +1,7 @@
 <?php
-namespace samdark\sitemap\tests;
+namespace phantoanit\sitemap\tests;
 
-use samdark\sitemap\Index;
+use phantoanit\sitemap\Index;
 
 class IndexTest extends \PHPUnit_Framework_TestCase
 {

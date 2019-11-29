@@ -1,5 +1,5 @@
 <?php
-namespace samdark\sitemap;
+namespace phantoanit\sitemap;
 
 /**
  * WriterInterface represents a data sink
