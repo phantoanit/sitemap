@@ -1,0 +1,32 @@
+
+{
+    "name": "phantoanit/sitemap",
+    "description": "Sitemap and sitemap index builder",
+    "keywords": [
+        "sitemap"
+    ],
+    "homepage": "https://github.com/phantoanit/sitemap",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Phan Duy Toan",
+            "email": "phantoan.it@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/phantoanit/sitemap/issues",
+        "source": "https://github.com/phantoanit/sitemap"
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "ext-xmlwriter": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "phantoanit\\sitemap\\": ""
+        }
+    }
+}
