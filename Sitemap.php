@@ -331,9 +331,6 @@ class Sitemap
             $this->writer->writeAttribute('rel', 'alternate');
             $this->writer->writeAttribute('media', $alternate['media']);
             $this->writer->writeAttribute('href', $alternate['url']);
-            //$this->writer->startAttribute('rel');
-            //$this->writer->text('alternate');
-            //$this->writer->endAttribute();
             $this->writer->endElement();
         }
 
